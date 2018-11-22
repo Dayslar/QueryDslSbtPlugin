@@ -64,7 +64,7 @@ and QueryDSL ant configuration recommendation.
 License
 -------
 
-    Copyright 2014 Cedric Gatay
+    Copyright 2018 Dayslar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
